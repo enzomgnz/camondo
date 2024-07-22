@@ -1,0 +1,216 @@
+version: 2
+
+seeds:
+  - name: seed_kpi_domaine
+    description: Table de dimension pour lier un KPI avec son domaine et les filtres à apliquer dans le fichier source
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: false
+      column_types:
+        KPI_ID:  varchar(10)
+        DOMAINE_ID: varchar(32)
+        FILTRE:  varchar(256)
+  - name: seed_matrice_securite
+    description: Table de dimension pour un utilisateur avec son Domaine et réaliser le filtres de sécurité pour le drill
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: false
+      column_types:
+        user_name:  varchar(256)
+        user_atlas_id:  varchar(256)
+        user_mail: varchar(256)
+        domaine:  varchar(256)
+        administrateur:  varchar(256)
+  - name: seed_trad_date_en_fr
+    description: Table de transco pour traduire les noms des jours de la semaine et les noms du mois de l'anglais au français
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: false
+      column_types:
+        CHIFFRE:  varchar(10)
+        NOM_EN: varchar(32)
+        NOM_FR:  varchar(256)
+        TYPE: varchar(256)
+  - name: seed_param_opcon
+    description: Table de parametres pour le calcul des indicateurs OPCON
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: false
+      column_types:
+        KPI_ID:  varchar(10)
+        NOM_FICHIER: varchar(32)
+        JOURADD:  varchar(10)
+        JOUR_NAME: varchar(32)
+        NB_JOURS:  varchar(256)
+        H: int
+        M:  int
+  - name: seed_baseline
+    description: Table de dimension pour lier un KPI avec ses baselines
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: true
+      column_types:
+        KPI_ID:  varchar(10)
+        BASELINE_BOTTOM: varchar(32)
+        BASELINE_TOP:  varchar(256)
+  - name: seed_kpi_description
+    description: Table de dimension pour avoir tous les informations liées à un KPI
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: true
+      column_types:
+        KPI_ID:  varchar(10)
+        KPI_NAME: varchar(256)
+        SERVICE_LEVEL: varchar(256)
+        GROUP_KPI: varchar(256)
+        SUBGROUP_KPI:  varchar(256)
+        ORDRE_SUBGROUP: varchar(256)
+        THEME: varchar(256)
+        ORDRE_THEME: varchar(256)
+        ORDRE_KPI_PAGE: varchar(256)
+        TAUX_YN: varchar(256)
+        DATE_CREATION: varchar(256)
+        DATE_CESSATION: varchar(256)
+        PAGE: varchar(256)
+        DESCRIPTION: varchar(1000)
+        DRILL_SYSTEME: varchar(256)
+  - name: seed_domaine
+    description: Table de dimension pour l'hierarchie des domaines
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: false
+      column_types:
+        DOMAINE_ID:  varchar(32)
+        SOCIETE: varchar(32)
+        ENTITE:  varchar(32)
+        ORDRE_DOMAINE_VISUEL:  varchar(32)
+  - name: seed_historique_barometre
+    description: Données historiques du Baromètre depuis janvier 2022
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: true
+      column_types:
+        KPI_ID:  varchar(256)
+        NOM_KPI:  varchar(256)
+        DOMAINE:  varchar(256)
+        DATE_AAAA_MM:  varchar(256)
+        VALEUR_TAUX:  varchar(256)
+        STATUT:  varchar(256)
+        BASELINE_TOP:  varchar(256)
+        BASELINE_BOTTOM:  varchar(256)
+  - name: seed_chargement_manuel
+    description: seed pour ajouter des kpis manuellement pour ajouter ceux qui ne sont pas encore calculés ou écraser des faux valeurs
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: true
+      column_types:
+        KPI_ID:  varchar(256)
+        NOM_KPI:  varchar(256)
+        DOMAINE:  varchar(256)
+        DATE_AAAA_MM:  varchar(256)
+        VALEUR_TAUX:  varchar(256)
+        STATUT:  varchar(256)
+        BASELINE_TOP:  varchar(256)
+        BASELINE_BOTTOM:  varchar(256)
+  - name: nmserr
+    description: seed pour le calcul d'indicateur M3MAN001 (données pas présentes dans M3)
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: true
+      column_types:
+        G2MSGN:  varchar(256)
+  - name: nbperr
+    description: seed pour le calcul d'indicateur M3MAN001 (données pas présentes dans Snowflake)
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: true
+      column_types:
+        DACONN:  varchar(256)
+  - name: seed_m3man_requetes
+    description: Parametrage pour requetes M3MAN
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: false
+      column_types:
+        KPI_ID:  varchar(10)
+        REQUETE: varchar(32)
+        BASE:  varchar(10)
+        SOURCE: varchar(32)
+  - name: seed_ind_techniques
+    description: Parametrage pour les indicateurs Service Nav
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: false
+      column_types:
+        KPI_ID:  varchar(256)
+        KPI_NAME: varchar(256)
+        PLAGE_HORAIRE:  varchar(256)
+        ID: varchar(256)
+        ORDRE_VISUEL:  number(38,0)
+        INDISPO_MAX: varchar(256)
+  - name: seed_flux
+    description: Parametrage pour la supervision des flux
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: false
+      column_types:
+        NOM_TABLE:  varchar(128)
+        TYPE_FLUX: varchar(128)
+        SOURCE:  varchar(128)
+        FICHIER_VIDE_ERREUR:  varchar(1)
+        FILE_NAME:  varchar(128)
+        LIGNES_ATTENDUES: varchar(128)
+  - name: seed_request
+    description: Parametrage pour la supervision des flux
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: false
+      column_types:
+        NODEID:  varchar(128)
+        TIMESTAMP: varchar(128)
+        RESPONSETIME:  varchar(128)
+        PERCENTLOSS:  varchar(128)
+        AVAILABILITY:  varchar(128)
+        WEIGHT: varchar(128)
+        RESPONSETIMEINDEX: varchar(128)
+        RESPONSETIMEINDEXHO:  varchar(128)
+        SITE:  varchar(128)
+        DATETIME:  varchar(128)
+        ID: varchar(128)
+  - name: seed_finance
+    description: Parametrage pour les indicateurs finance
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: false
+      column_types:
+        BUKRS:  varchar(128)
+        BELNR: varchar(128)
+        BLART:  varchar(128)
+        BUDAT:  varchar(128)
+        CPUDT:  varchar(128)
+  - name: seed_transco_finance
+    description: Parametrage pour les indicateurs finance
+    tags: ["SEED"]
+    config:
+      full_refresh: true
+      quote_columns: false
+      column_types:
+        SOCIETE:  varchar(10)
+        REGION: varchar(15)
+        EXCLURE: varchar(15)

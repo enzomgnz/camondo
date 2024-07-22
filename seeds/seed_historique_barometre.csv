@@ -1,0 +1,1334 @@
+﻿KPI_ID,NOM_KPI,DOMAINE,DATE_AAAA_MM,VALEUR_TAUX,STATUT,BASELINE_TOP,BASELINE_BOTTOM
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2022-01,100%,VERT,95%,94.99%
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2022-02,100%,VERT,95%,94.99%
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2022-03,100%,VERT,95%,94.99%
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2022-04,100%,VERT,95%,94.99%
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2022-05,96.2%,VERT,95%,94.99%
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2022-06,100%,VERT,95%,94.99%
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2022-07,100%,VERT,95%,94.99%
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2022-08,100%,VERT,95%,94.99%
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2022-09,100%,VERT,95%,94.99%
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2022-10,100%,VERT,95%,94.99%
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2022-11,100 %,VERT,95%,94.99%
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2022-12,100%,VERT,95%,94.99%
+OPCON001,Respect du délai de mise à disposition des Ordres de Distributions chez Geodis à 7h30,HMS,2023-01,100%,VERT,95%,94.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2022-01,80%,ROUGE,95%,94.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2022-02,100 %,VERT,95%,94.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2022-03,100%,VERT,95%,94.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2022-04,100%,VERT,95%,94.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2022-05,100%,VERT,95%,94.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2022-06,75%,ROUGE,95%,94.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2022-07,80%,ROUGE,95%,94.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2022-08,100 %,VERT,95%,94.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2022-09,100%,VERT,95%,94.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2022-10,100%,VERT,95%,94.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2022-11,100 %,VERT,100 %,99.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2022-12,100%,VERT,100%,99.99%
+OPCON003,Respect du délai de mise à disposition des Ordres d'Achat et des Propositions d'Ordres d'Achat à 8h30,HMS,2023-01,75%,ROUGE,100%,99.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2022-01,90.5%,ROUGE,95%,94.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2022-02,95%,VERT,95%,94.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2022-03,100%,VERT,95%,94.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2022-04,100%,VERT,95%,94.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2022-05,95.2%,VERT,95%,94.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2022-06,100%,VERT,95%,94.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2022-07,90.5%,ROUGE,95%,94.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2022-08,100%,VERT,95%,94.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2022-09,100 %,VERT,95%,94.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2022-10,100%,VERT,95%,94.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2022-11,95.5%,VERT,95%,94.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2022-12,100%,VERT,95%,94.99%
+OPCON004,Respect du délai de mise à disposition des Ordres à produire pour les sites de production à 8h00,HMS,2023-01,95.5%,VERT,95%,94.99%
+M3001,Synchronisation des quantités commandées sur l’OA et les quantités à fabriquer sur l’OF ,HERMES FEMME,2022-08,99.38%,ORANGE,99.5%,99%
+M3001,Synchronisation des quantités commandées sur l’OA et les quantités à fabriquer sur l’OF ,HERMES FEMME,2022-09,99.44%,ORANGE,99.5%,99%
+M3001,Synchronisation des quantités commandées sur l’OA et les quantités à fabriquer sur l’OF ,HERMES FEMME,2022-10,99.45%,ORANGE,99.5%,99%
+M3001,Synchronisation des quantités commandées sur l’OA et les quantités à fabriquer sur l’OF ,HERMES FEMME,2022-11,99.32%,ORANGE,99.5%,99%
+M3001,Synchronisation des quantités commandées sur l’OA et les quantités à fabriquer sur l’OF ,HERMES FEMME,2022-12,99.47%,ORANGE,99.5%,99%
+M3001,Synchronisation des quantités commandées sur l’OA et les quantités à fabriquer sur l’OF ,HERMES FEMME,2023-01,99.53%,VERT,99.5%,99%
+M3002,Synchronisation des quantités réceptionnées sur l’OA et les quantités fabriquées sur l’OF,HERMES FEMME,2022-08,98.98%,ROUGE,99.5%,99%
+M3002,Synchronisation des quantités réceptionnées sur l’OA et les quantités fabriquées sur l’OF,HERMES FEMME,2022-09,99.17%,ORANGE,99.5%,99%
+M3002,Synchronisation des quantités réceptionnées sur l’OA et les quantités fabriquées sur l’OF,HERMES FEMME,2022-10,99.15%,ORANGE,99.5%,99%
+M3002,Synchronisation des quantités réceptionnées sur l’OA et les quantités fabriquées sur l’OF,HERMES FEMME,2022-11,99.20%,ORANGE,99.5%,99%
+M3002,Synchronisation des quantités réceptionnées sur l’OA et les quantités fabriquées sur l’OF,HERMES FEMME,2022-12,99.27%,ORANGE,99.5%,99%
+M3002,Synchronisation des quantités réceptionnées sur l’OA et les quantités fabriquées sur l’OF,HERMES FEMME,2023-01,99.29%,ORANGE,99.5%,99%
+M3003,Taux d’intégration des flux entrants Deret vers M3 - Hermès Femme,HERMES FEMME,2022-02,99.3%,ORANGE,99.9%,99.1%
+M3003,Taux d’intégration des flux entrants Deret vers M3 - Hermès Femme,HERMES FEMME,2022-03,99.4%,ORANGE,99.9%,99.1%
+M3003,Taux d’intégration des flux entrants Deret vers M3 - Hermès Femme,HERMES FEMME,2022-04,99.4%,ORANGE,99.9%,99.1%
+M3003,Taux d’intégration des flux entrants Deret vers M3 - Hermès Femme,HERMES FEMME,2022-05,99.2%,ORANGE,99.9%,99.1%
+M3003,Taux d’intégration des flux entrants Deret vers M3 - Hermès Femme,HERMES FEMME,2022-06,98.5%,ROUGE,99.9%,99.1%
+M3003,Taux d’intégration des flux entrants Deret vers M3 - Hermès Femme,HERMES FEMME,2022-07,99.4%,ORANGE,99.9%,99.1%
+M3003,Taux d’intégration des flux entrants Deret vers M3 - Hermès Femme,HERMES FEMME,2022-08,98.73%,ROUGE,99.9%,99.1%
+M3003,Taux d’intégration des flux entrants Deret vers M3 - Hermès Femme,HERMES FEMME,2022-09,99.04%,ROUGE,99.9%,99.1%
+M3003,Taux d’intégration des flux entrants Deret vers M3 - Hermès Femme,HERMES FEMME,2022-10,98.55%,VERT,98%,97%
+M3003,Taux d’intégration des flux entrants Deret vers M3 - Hermès Femme,HERMES FEMME,2022-11,99.35%,VERT,98%,97%
+M3003,Taux d’intégration des flux entrants Deret vers M3 - Hermès Femme,HERMES FEMME,2022-12,98.83%,VERT,98%,97%
+M3003,Taux d’intégration des flux entrants Deret vers M3 - Hermès Femme,HERMES FEMME,2023-01,98.33%,VERT,98%,97%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDE,2022-06,88%,VERT,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDE,2022-07,72%,ORANGE,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDE,2022-08,82.35%,VERT,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDE,2022-09,76.47%,ORANGE,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDE,2022-10,73.80%,ORANGE,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDE,2022-11,93.75%,VERT,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDE,2022-12,86.67%,VERT,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDE,2023-01,96%,VERT,80%,74%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDE,2022-06,57.14%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDE,2022-07,38.43%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDE,2022-08,28.57%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDE,2022-09,11.11%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDE,2022-10,9.09%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDE,2022-11,18.52 %,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDE,2022-12,34.88%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDE,2023-01,16.13%,ROUGE,80%,69%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDE,2022-07,/,VERT,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDE,2022-08,/,VERT,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDE,2022-09,/,VERT,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDE,2022-10,100%,VERT,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDE,2022-11,/,VERT,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDE,2022-12,/,VERT,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDE,2023-01,/,VERT,80%,69%
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2022-01,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2022-02,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2022-03,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2022-04,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2022-05,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2022-06,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2022-07,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2022-08,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2022-09,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2022-10,1,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2022-11,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2022-12,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDE,2023-01,0,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2022-01,0,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2022-02,3,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2022-03,3,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2022-04,4,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2022-05,1,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2022-06,1,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2022-07,1,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2022-08,2,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2022-09,2,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2022-10,2,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2022-11,5,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2022-12,1,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDE,2023-01,2,VERT,5,11
+EASY006,Taux de non réouverture des incidents,HDE,2022-01,96.6%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDE,2022-02,94.70%,ORANGE,95%,89%
+EASY006,Taux de non réouverture des incidents,HDE,2022-03,95.60%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDE,2022-04,98.10%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDE,2022-05,97.70%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDE,2022-06,93.50%,ORANGE,95%,89%
+EASY006,Taux de non réouverture des incidents,HDE,2022-07,96.50%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDE,2022-08,95.60%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDE,2022-09,93.40%,ORANGE,95%,89%
+EASY006,Taux de non réouverture des incidents,HDE,2022-10,94.40%,ORANGE,95%,89%
+EASY006,Taux de non réouverture des incidents,HDE,2022-11,96.20%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDE,2022-12,95.80%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDE,2023-01,95.80%,VERT,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2022-01,90.80%,VERT,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2022-02,96.20%,VERT,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2022-03,90.30%,VERT,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2022-04,98.70%,VERT,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2022-05,88%,ORANGE,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2022-06,78.30%,ROUGE,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2022-07,87.10%,ORANGE,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2022-08,89.20%,ORANGE,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2022-09,68.40%,ROUGE,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2022-10,99.80%,VERT,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2022-11,81.30%,ROUGE,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2022-12,89.10%,ORANGE,90%,84%
+EASY007,Taux de résolution des incidents SAV en moins de 5 jours,SERVICE AUX CLIENTS,2023-01,71.40%,ROUGE,90%,84%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2022-01,46.67%,ROUGE,95%,89%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2022-02,43.86%,ROUGE,95%,89%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2022-03,45%,ROUGE,95%,89%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2022-04,87%,ORANGE,95%,89%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2022-05,100%,VERT,95%,89%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2022-06,50%,ROUGE,95%,89%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2022-07,68%,ROUGE,95%,89%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2022-08,36.84%,ROUGE,95%,89%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2022-09,68.42%,ROUGE,95%,89%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2022-10,99.80%,VERT,95%,89%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2022-11,57.14%,ROUGE,95%,89%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2022-12,50%,ROUGE,95%,89%
+EASY008,Taux de résolution des incidents prioritaires en moins de 3 jours,SERVICE AUX CLIENTS,2023-01,53.33%,ROUGE,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2022-01,80.27%,ROUGE,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2022-02,84.31%,ROUGE,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2022-03,77.40%,ROUGE,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2022-04,68.78%,ROUGE,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2022-05,74%,ROUGE,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2022-06,77.89%,ROUGE,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2022-07,82.94%,ROUGE,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2022-08,79.92%,ROUGE,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2022-09,75.86%,ROUGE,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2022-10,100%,VERT,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2022-11,82.89%,ROUGE,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2022-12,84.42%,ROUGE,95%,89%
+EASY009,Taux de résolutions des incidents non prioritaires en moins de 7 jours,SERVICE AUX CLIENTS,2023-01,84.43%,ROUGE,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDE,2022-07,94%,ORANGE,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDE,2022-08,93%,ORANGE,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDE,2022-09,82%,ROUGE,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDE,2022-10,100%,VERT,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDE,2022-11,96%,VERT,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDE,2022-12,100%,VERT,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDE,2023-01,88%,ROUGE,95%,89%
+EASY012,Nombre d'incidents ALF sur le mois,HDE,2022-07,16,VERT,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDE,2022-08,16,VERT,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDE,2022-09,19,VERT,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDE,2022-10,25,ORANGE,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDE,2022-11,17,VERT,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDE,2022-12,49,ROUGE,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDE,2023-01,23,ORANGE,20,31
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2022-01,3.80%,ROUGE,95%,89%
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2022-02,45.80%,ROUGE,95%,89%
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2022-03,85.20%,ROUGE,95%,89%
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2022-04,92.30%,ORANGE,95%,89%
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2022-05,92.30%,ORANGE,95%,89%
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2022-06,92.30%,VERT,90%,84%
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2022-07,96.20%,VERT,90%,84%
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2022-08,96.30%,VERT,90%,84%
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2022-09,92.30%,VERT,90%,84%
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2022-10,100%,VERT,90%,84%
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2022-11,96.20%,VERT,90%,84%
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2022-12,96.30%,VERT,90%,84%
+OPCON002,Taux de mise à dispo des données TM1 avant 8h du lundi au samedi,HDE,2023-01,96.20%,VERT,90%,84%
+OPCON005,Taux de mise à dispo des données TM1 avant 7h30 du lundi au samedi,HDF,2022-07,99.67%,VERT,90%,84%
+OPCON005,Taux de mise à dispo des données TM1 avant 7h30 du lundi au samedi,HDF,2022-08,96.30%,VERT,90%,84%
+OPCON005,Taux de mise à dispo des données TM1 avant 7h30 du lundi au samedi,HDF,2022-09,92.30%,VERT,90%,84%
+OPCON005,Taux de mise à dispo des données TM1 avant 7h30 du lundi au samedi,HDF,2022-10,95.25%,VERT,90%,84%
+OPCON005,Taux de mise à dispo des données TM1 avant 7h30 du lundi au samedi,HDF,2022-12,95.5%,VERT,90%,84%
+OPCON005,Taux de mise à dispo des données TM1 avant 7h30 du lundi au samedi,HDF,2023-01,95.5%,VERT,90%,84%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDF,2022-02,64%,ROUGE,90%,84%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDF,2022-03,65.12%,ROUGE,90%,84%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDF,2022-04,84.13%,ROUGE,90%,84%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDF,2022-05,67%,ROUGE,90%,84%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDF,2022-06,78.38%,ORANGE,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDF,2022-07,75%,ORANGE,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDF,2022-08,48.57%,ROUGE,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDF,2022-09,81.48%,VERT,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDF,2022-10,81.25%,VERT,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDF,2022-11,84.09%,VERT,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDF,2022-12,77.78%,ORANGE,80%,74%
+EASY001,Taux de résolution des incidents liés aux réceptions dans les délais (4h),HDF,2023-01,45.83%,ROUGE,80%,74%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDF,2022-06,14.29%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDF,2022-07,33.33%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDF,2022-08,20%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDF,2022-09,4%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDF,2022-10,22.73%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDF,2022-11,29.41%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDF,2022-12,33.33%,ROUGE,80%,69%
+EASY002,Taux d’incidents liées aux applications mobiles traitées dans les délais,HDF,2023-01,19.51%,ROUGE,80%,69%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDF,2022-02,0 %,ROUGE,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDF,2022-03,0 %,ROUGE,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDF,2022-04,/,VERT,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDF,2022-05,66.7%,ORANGE,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDF,2022-06,40%,ROUGE,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDF,2022-07,100%,VERT,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDF,2022-08,50%,ROUGE,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDF,2022-09,25%,ROUGE,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDF,2022-10,100%,VERT,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDF,2022-11,100%,VERT,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDF,2022-12,/,VERT,90%,84%
+EASY003,Taux de résolution des incidents Purecloud dans les délais,HDF,2023-01,100%,VERT,80%,69%
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2022-01,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2022-02,3,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2022-03,2,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2022-04,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2022-05,3,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2022-06,11,ROUGE,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2022-07,1,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2022-08,4,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2022-09,2,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2022-10,1,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2022-11,5,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2022-12,0,VERT,5,11
+EASY004,Nombre d'incidents Purecloud sur le mois,HDF,2023-01,2,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDF,2022-01,1,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDF,2022-02,0,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDF,2022-03,4,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDF,2022-04,7,ORANGE,5,11
+EASY005,Nombre d'incidents CIS,HDF,2022-05,/,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDF,2022-06,1,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDF,2022-07,/,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDF,2022-08,/,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDF,2022-09,/,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDF,2022-10,/,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDF,2022-11,2,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDF,2022-12,1,VERT,5,11
+EASY005,Nombre d'incidents CIS,HDF,2023-01,2,VERT,5,11
+EASY006,Taux de non réouverture des incidents,HDF,2022-01,97.70%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDF,2022-02,97.13%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDF,2022-03,98.05%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDF,2022-04,98.13%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDF,2022-05,97.61%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDF,2022-06,97.91%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDF,2022-07,97.86%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDF,2022-08,97.50%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDF,2022-09,97.26%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDF,2022-10,95.97%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDF,2022-11,97.02%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDF,2022-12,97.41%,VERT,95%,89%
+EASY006,Taux de non réouverture des incidents,HDF,2023-01,97.27%,VERT,90%,84%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDF,2022-07,98%,VERT,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDF,2022-08,94%,ORANGE,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDF,2022-09,89%,ROUGE,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDF,2022-10,94%,ORANGE,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDF,2022-11,98%,VERT,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDF,2022-12,90%,ORANGE,95%,89%
+EASY011,Taux de respect du délais de 5j pour la création d'un accès Outils Métiers Retail,HDF,2023-01,93%,ORANGE,95%,89%
+EASY012,Nombre d'incidents ALF sur le mois,HDF,2022-01,71,ROUGE,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDF,2022-02,44,ROUGE,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDF,2022-03,54,ROUGE,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDF,2022-04,58,ROUGE,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDF,2022-07,45,ROUGE,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDF,2022-08,48,ROUGE,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDF,2022-09,45,ROUGE,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDF,2022-10,35,ROUGE,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDF,2022-11,48,ROUGE,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDF,2022-12,80,ROUGE,20,31
+EASY012,Nombre d'incidents ALF sur le mois,HDF,2023-01,51,ROUGE,20,31
+M3004,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Deret,LOGISTIQUE,2022-05,99%,VERT,95%,89%
+M3004,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Deret,LOGISTIQUE,2022-06,99.37%,VERT,95%,89%
+M3004,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Deret,LOGISTIQUE,2022-07,98.74%,VERT,95%,89%
+M3004,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Deret,LOGISTIQUE,2022-08,95.29%,VERT,95%,89%
+M3004,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Deret,LOGISTIQUE,2022-09,97.74%,VERT,95%,89%
+M3004,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Deret,LOGISTIQUE,2022-10,98.48%,VERT,95%,89%
+M3004,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Deret,LOGISTIQUE,2022-11,99.11%,VERT,95%,89%
+M3004,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Deret,LOGISTIQUE,2022-12,99.09%,VERT,95%,89%
+M3004,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Deret,LOGISTIQUE,2023-01,97.64%,VERT,95%,89%
+M3005,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Bobigny,LOGISTIQUE,2022-05,99%,VERT,95%,89%
+M3005,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Bobigny,LOGISTIQUE,2022-06,98.48%,VERT,95%,89%
+M3005,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Bobigny,LOGISTIQUE,2022-07,99.37%,VERT,95%,89%
+M3005,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Bobigny,LOGISTIQUE,2022-08,98.13%,VERT,95%,89%
+M3005,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Bobigny,LOGISTIQUE,2022-09,99.04%,VERT,95%,89%
+M3005,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Bobigny,LOGISTIQUE,2022-10,98.55%,VERT,95%,89%
+M3005,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Bobigny,LOGISTIQUE,2022-11,99.35%,VERT,95%,89%
+M3005,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Bobigny,LOGISTIQUE,2022-12,98.90%,VERT,95%,89%
+M3005,Taux d'intégration des PIX Manhattan dans M3 sans erreur - Bobigny,LOGISTIQUE,2023-01,98.53%,VERT,95%,89%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2022-01,99.7%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2022-02,99.7%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2022-03,99.78%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2022-04,99.46%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2022-05,99%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2022-06,99.89%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2022-07,99.74%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2022-08,99.94%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2022-09,99.97%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2022-10,97.16%,ORANGE,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2022-11,99.79%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2022-12,99.34%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2023-01,99.97%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2023-02,99.55%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2022-01,99.56%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2022-02,99.59%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2022-03,99.63%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2022-04,99.73%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2022-05,99.64%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2022-06,99.81%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2022-07,99.75%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2022-08,99.78%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2022-09,99.88%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2022-10,99.87%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2022-11,99.64%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2022-12,99.16%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2023-01,100%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2023-02,99.59%,VERT,99%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2022-01,98.66%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2022-02,97.61%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2022-03,96.47%,ROUGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2022-04,93.74%,ROUGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2022-05,89.97%,ROUGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2022-06,87.54%,ROUGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2022-07,98.40%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2022-08,97.99%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2022-09,97.29%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2022-10,97.56%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2022-11,98.43%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2022-12,96.74%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2023-01,97.93%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2023-02,97.48%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2022-01,98.56%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2022-02,97.66%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2022-03,96.33%,ROUGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2022-04,93.88%,ROUGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2022-05,89.72%,ROUGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2022-06,87.28%,ROUGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2022-07,98.61%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2022-08,97.88%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2022-09,97.42%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2022-10,100%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2022-11,98.75%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2022-12,97%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2023-01,98.34%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2023-02,98.04%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2022-01,99.6%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2022-02,97.51%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2022-03,96.73%,ROUGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2022-04,93.5%,ROUGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2022-05,90%,ROUGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2022-06,87.97%,ROUGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2022-07,98.05%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2022-08,98.18%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2022-09,97.05%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2022-10,97.47%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2022-11,97.86%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2022-12,96.37%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2023-01,97.12%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2023-02,96.32%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2022-01,97.38%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2022-02,97.62%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2022-03,84.42%,ROUGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2022-04,98.25%,VERT,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2022-05,96.79%,ROUGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2022-06,97.47%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2022-07,97.80%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2022-08,97.51%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2022-09,95.51%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2022-10,96.59%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2022-11,96.17%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2022-12,97.60%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2023-01,96.78%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2023-02,96.95%,ORANGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2022-01,90.58%,ROUGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2022-02,89.13%,ROUGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2022-03,75.96%,ROUGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2022-04,89.60%,ROUGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2022-05,90.75%,ROUGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2022-06,92.86%,ROUGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2022-07,93.48%,ROUGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2022-08,87.14%,ROUGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2022-09,93.71%,ROUGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2022-10,96.82%,ORANGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2022-11,97.23%,ORANGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2022-12,97.34%,ORANGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2023-01,96.48%,ORANGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2023-02,96.48%,ORANGE,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2022-01,95.68%,ROUGE,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2022-02,95.20%,ROUGE,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2022-03,95.06%,ROUGE,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2022-04,95.36%,ROUGE,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2022-05,94.11%,ROUGE,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2022-06,95.84%,ORANGE,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2022-07,97.79%,ORANGE,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2022-08,98.34%,VERT,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2022-09,98.10%,VERT,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2022-10,98.30%,VERT,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2022-11,98%,VERT,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2022-12,97.70%,ORANGE,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2023-01,98.25%,VERT,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2023-02,97.96%,VERT,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2022-01,99.10%,VERT,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2022-02,99.02%,VERT,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2022-03,98.83%,VERT,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2022-04,98.27%,VERT,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2022-05,97.93%,ORANGE,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2022-06,55.65%,ROUGE,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2022-07,59.27%,ROUGE,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2022-08,59.46%,ROUGE,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2022-09,60.92%,ROUGE,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2022-10,62.03%,ROUGE,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2022-11,57.27%,ROUGE,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2022-12,54.8%,ROUGE,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2023-01,99.98%,VERT,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2023-02,99.96%,VERT,98%,94%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2022-01,98.2%,VERT,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2022-02,95.08%,VERT,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2022-03,75.2%,ROUGE,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2022-04,89.03%,ROUGE,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2022-05,90%,ROUGE,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2022-06,91.05%,ORANGE,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2022-07,92.94%,ORANGE,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2022-08,87.08%,ROUGE,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2022-09,93.76%,ORANGE,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2022-10,96.51%,VERT,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2022-11,97.25%,VERT,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2022-12,96.76%,VERT,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2023-01,96.32%,VERT,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2023-02,96.57%,VERT,95%,89%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2022-05,99%,VERT,95%,89%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2022-06,99.34%,VERT,95%,89%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2022-07,99.67%,VERT,95%,89%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2022-08,99.66%,VERT,95%,89%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2022-09,99.74%,VERT,95%,89%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2022-10,99.56%,VERT,95%,89%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2022-11,99.82%,VERT,95%,89%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2022-12,99.88%,VERT,95%,89%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2023-01,99.84%,VERT,95%,89%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2023-02,99.69%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2022-05,99%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2022-06,99.14%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2022-07,98.80%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2022-08,99.34%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2022-09,99.01%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2022-10,98.49%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2022-11,99.06%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2022-12,99.34%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2023-01,99.14%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2023-02,99.02%,VERT,95%,89%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2022-01,99.30%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2022-02,99.60%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2022-03,99.80%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2022-04,99.80%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2022-05,100%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2022-06,99.75%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2022-07,99.65%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2022-08,99.71%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2022-09,99.77%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2022-10,100%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2022-11,99.79%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2022-12,99.84%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2023-01,99.77%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2023-02,99.66%,VERT,99%,94%
+M3MAN003A,Taux d'intégration des BP à préparer - Bobigny,LOGISTIQUE,2022-05,100%,VERT,95%,89%
+M3MAN003A,Taux d'intégration des BP à préparer - Bobigny,LOGISTIQUE,2022-06,100%,VERT,95%,89%
+M3MAN003A,Taux d'intégration des BP à préparer - Bobigny,LOGISTIQUE,2022-07,100%,VERT,95%,89%
+M3MAN003A,Taux d'intégration des BP à préparer - Bobigny,LOGISTIQUE,2022-08,100%,VERT,95%,89%
+M3MAN003A,Taux d'intégration des BP à préparer - Bobigny,LOGISTIQUE,2022-09,100%,VERT,95%,89%
+M3MAN003A,Taux d'intégration des BP à préparer - Bobigny,LOGISTIQUE,2022-10,99.97%,VERT,95%,89%
+M3MAN003A,Taux d'intégration des BP à préparer - Bobigny,LOGISTIQUE,2022-11,99.97%,VERT,95%,89%
+M3MAN003A,Taux d'intégration des BP à préparer - Bobigny,LOGISTIQUE,2022-12,99.99%,VERT,95%,89%
+M3MAN003A,Taux d'intégration des BP à préparer - Bobigny,LOGISTIQUE,2023-01,99.41%,VERT,95%,89%
+M3MAN003A,Taux d'intégration des BP à préparer - Bobigny,LOGISTIQUE,2023-02,99.99%,VERT,95%,89%
+M3MAN003B,Taux d'intégration des BP à préparer - Deret,LOGISTIQUE,2022-05,100%,VERT,95%,89%
+M3MAN003B,Taux d'intégration des BP à préparer - Deret,LOGISTIQUE,2022-06,99.89%,VERT,95%,89%
+M3MAN003B,Taux d'intégration des BP à préparer - Deret,LOGISTIQUE,2022-07,99.45%,VERT,95%,89%
+M3MAN003B,Taux d'intégration des BP à préparer - Deret,LOGISTIQUE,2022-08,99.46%,VERT,95%,89%
+M3MAN003B,Taux d'intégration des BP à préparer - Deret,LOGISTIQUE,2022-09,98.90%,VERT,95%,89%
+M3MAN003B,Taux d'intégration des BP à préparer - Deret,LOGISTIQUE,2022-10,95.10%,VERT,95%,89%
+M3MAN003B,Taux d'intégration des BP à préparer - Deret,LOGISTIQUE,2022-11,99.81%,VERT,95%,89%
+M3MAN003B,Taux d'intégration des BP à préparer - Deret,LOGISTIQUE,2022-12,99.84%,VERT,95%,89%
+M3MAN003B,Taux d'intégration des BP à préparer - Deret,LOGISTIQUE,2023-01,99.43%,VERT,95%,89%
+M3MAN003B,Taux d'intégration des BP à préparer - Deret,LOGISTIQUE,2023-02,99.95%,VERT,95%,89%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2022-01,94.04%,ROUGE,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2022-02,99.40%,VERT,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2022-03,99.10%,VERT,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2022-04,99.05%,VERT,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2022-05,95.94%,ROUGE,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2022-06,98.19%,VERT,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2022-07,99.51%,VERT,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2022-08,99.35%,VERT,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2022-09,99.40%,VERT,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2022-10,99.80%,VERT,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2022-11,99.71%,VERT,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2022-12,97.70%,ORANGE,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2023-01,99.77%,VERT,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2023-02,99.48%,VERT,98%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2023-03,99.76%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDE,2023-04,99.81%,VERT,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2023-03,98.66%,ORANGE,99%,94%
+M3Y2001,Taux de livraisons annoncées en moins de 24h après l'expédition,HDF,2023-04,99.66%,VERT,99%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2023-03,97.94%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,Ecom,2023-04,95.44%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2023-03,98.17%,VERT,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDE,2023-04,94.98%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2023-03,97.38%,ORANGE,98%,94%
+MAG001,Respect du délais d'expédition (promesse client): validées avant 14h/ J. validées après 14h/ J+1,HDF,2023-04,96.31%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2023-03,97.22%,ORANGE,98%,94%
+M3MAG001,Taux mensuel de commandes validées dans Magento et intégrées dans M3 en 15 min,Ecom,2023-04,93.70%,ROUGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2023-03,96.40%,ORANGE,98%,94%
+MANMAG001,Taux mensuel de commandes préparées et facturées dans Magento en 15 min,Ecom,2023-04,97.36%,ORANGE,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2023-03,98.01%,VERT,98%,94%
+MANMAG002,Taux mensuel de commandes expédiées le même jour que la facturation,Ecom,2023-04,97.37%,ORANGE,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2023-03,99.99%,VERT,98%,94%
+MANMAG003,Taux mensuel de confirmations d'expédition remontées correctement dans Magento,Ecom,2023-04,99.95%,VERT,98%,94%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2023-03,95.94%,VERT,95%,89%
+MANMAG004,Taux d'intégration de la facturation dans les délais (15 min entre fin de préparation Manhattan et facturation Magento),LOGISTIQUE,2023-04,97.42%,VERT,95%,89%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2023-03,99.69%,VERT,95%,89%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2023-04,99.77%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2023-03,99.17%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2023-04,98.95%,VERT,95%,89%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2023-03,99.68%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2023-04,99.79%,VERT,99%,94%
+M3MAN002,Taux de BP préparés remontant en facturation,SERVICE AUX CLIENTS,2023-05,99.70%,VERT,99%,94%
+M3MAN003A,Taux d'intégration des BP à préparer - Bobigny,LOGISTIQUE,2023-03,99.97%,VERT,95%,89%
+M3MAN003A,Taux d'intégration des BP à préparer - Bobigny,LOGISTIQUE,2023-04,99.99%,VERT,95%,89%
+M3MAN003B,Taux d'intégration des BP à préparer - Deret,LOGISTIQUE,2023-03,99.66%,VERT,95%,89%
+M3MAN003B,Taux d'intégration des BP à préparer - Deret,LOGISTIQUE,2023-04,99.61%,VERT,95%,89%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2023-03,99.79%,VERT,98%,94%
+MAN001,Taux mensuel de commandes préparées à J (validées avant 14h). à J+1 (validées après 14h),Ecom,2023-04,96.96%,ORANGE,98%,94%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2022-01,93.60%,ROUGE,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2022-02,92.50%,ROUGE,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2022-03,92.10%,ROUGE,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2022-04,95.40%,ORANGE,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2022-05,96.60%,ORANGE,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2022-06,96.80%,ORANGE,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2022-07,96.20%,ORANGE,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2022-08,97.20%,ORANGE,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2022-09,99.40%,VERT,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2022-10,99.30%,VERT,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2022-11,99.14%,VERT,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2022-12,98.80%,VERT,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2023-01,98.49%,VERT,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2023-02,97.08%,ORANGE,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2023-03,98.13%,VERT,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2023-04,96.54%,ROUGE,98.00%,97.00%
+M3PF001,Synchronisation des Restes A Livrer entre le Portail Fournisseur et M3,HERMES FEMME,2023-05,95.20%,ROUGE,98.00%,97.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2023-01,99.90%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2023-01,99.96%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2023-01,99.93%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2023-01,99.97%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2023-01,99.90%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2023-01,99.96%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2023-01,99.93%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2023-01,99.97%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2023-01,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2023-01,99.60%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2023-01,97.50%,,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2023-01,99.70%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2023-01,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2023-01,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2023-01,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2023-01,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2023-01,99.90%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2023-01,99.90%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2023-02,99.50%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2023-02,99.80%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2023-02,99.60%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2023-02,99.70%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2023-02,99.50%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2023-02,99.80%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2023-02,99.60%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2023-02,99.70%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2023-02,99.84%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2023-02,99.95%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2023-02,99.95%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2023-02,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2023-02,99.94%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2023-02,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2023-02,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2023-02,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2023-02,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2023-02,100.00%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2023-02,100.00%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2023-02,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2023-02,99.94%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2023-02,99.94%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2023-02,99.94%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2023-02,100.00%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2023-02,99.96%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2023-02,99.95%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2023-02,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2023-02,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2023-02,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2023-02,99.72%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2023-02,99.93%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2023-03,99.75%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2023-03,99.64%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2023-03,99.75%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2023-03,99.64%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2023-03,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2023-03,98.30%,ROUGE,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2023-03,99.91%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2023-03,100.00%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2023-03,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2023-03,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2023-03,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2023-03,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2023-03,99.60%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2023-03,99.87%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2023-04,92.00%,ROUGE,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2023-04,99.87%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2023-04,92.03%,ROUGE,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2023-04,99.85%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2023-04,92.00%,ROUGE,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2023-04,99.87%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2023-04,92.03%,ROUGE,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2023-04,99.85%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2023-04,100.00%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2023-04,100.00%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2023-04,100.00%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2023-04,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2023-04,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2023-04,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2023-04,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2023-04,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2023-04,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2023-04,100.00%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2023-04,100.00%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2023-04,99.35%,ORANGE,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2023-04,99.91%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2023-04,99.91%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2023-04,99.91%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2023-04,99.91%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2023-04,99.98%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2023-04,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2023-04,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2023-04,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2023-04,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2023-04,99.86%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2023-04,99.93%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2023-05,99.75%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2023-05,99.75%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2023-05,99.75%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2023-05,99.75%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2023-05,99.95%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2023-05,99.95%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2023-05,99.95%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2023-05,99.95%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2023-05,96.00%,ROUGE,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2023-05,99.03%,ORANGE,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2023-05,100.00%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2023-05,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2023-05,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2023-05,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2023-05,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2023-05,99.88%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2023-05,99.66%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2023-06,99.56%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2023-06,99.65%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2023-06,99.67%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2023-06,99.65%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2023-06,99.56%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2023-06,99.65%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2023-06,99.67%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2023-06,99.65%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2023-06,100.00%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2023-06,100.00%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2023-06,100.00%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2023-06,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2023-06,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2023-06,99.30%,ORANGE,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2023-06,99.53%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2023-06,99.53%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2023-06,99.53%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2023-06,99.46%,ORANGE,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2023-06,99.33%,ORANGE,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2023-06,99.08%,ORANGE,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2023-06,99.59%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2023-06,99.59%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2023-06,99.59%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2023-06,99.58%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2023-06,100.00%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2023-06,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2023-06,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2023-06,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2023-06,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2023-06,99.89%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2023-06,99.72%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2023-01,99.60 %,VERT,99.5%,99%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2023-02,100.00 %,VERT,99.5%,99%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2023-03,98.30 %,ROUGE,99.5%,99%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2023-04,100.00 %,VERT,99.5%,99%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2023-05,96.00 %,ROUGE,99.5%,99%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2022-01,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2022-01,99.94%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2022-01,99.94%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2022-01,99.94%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2022-01,99.97%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2022-01,99.97%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2022-01,97.66%,ROUGE,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2022-01,99.93%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2022-01,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2022-01,99.97%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2022-01,99.97%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2022-01,99.97%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2022-01,99.95%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2022-01,99.90%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2022-02,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2022-02,99.94%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2022-02,99.94%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2022-02,99.94%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2022-02,99.60%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2022-02,99.93%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2022-02,99.67%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2022-02,99.93%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2022-02,,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2022-02,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2022-02,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2022-02,99.98%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2022-02,9991.00%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2022-02,9998.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2022-03,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2022-03,99.79%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2022-03,99.79%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2022-03,99.79%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2022-03,99.79%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2022-03,100.00%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2022-03,99.86%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2022-03,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2022-03,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2022-03,99.99%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2022-03,99.68%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2022-03,99.63%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2022-04,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2022-04,99.04%,ORANGE,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2022-04,100.00%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2022-04,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2022-04,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2022-04,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2022-04,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2022-04,99.99%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2022-04,99.23%,ORANGE,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2022-05,99.79%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2022-05,99.79%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2022-05,99.79%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2022-05,99.79%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2022-05,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2022-05,99.12%,ROUGE,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2022-05,99.12%,ROUGE,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2022-05,100.00%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2022-05,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2022-05,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2022-05,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2022-05,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2022-05,99.97%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2022-05,99.83%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2022-06,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2022-06,99.87%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2022-06,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2022-06,99.85%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2022-06,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2022-06,99.87%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2022-06,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2022-06,99.85%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2022-06,99.38%,ORANGE,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2022-06,99.46%,ORANGE,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2022-06,98.18%,ROUGE,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2022-06,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2022-06,99.10%,ORANGE,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2022-06,99.60%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2022-06,99.60%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2022-06,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2022-06,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2022-06,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2022-06,98.81%,ROUGE,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2022-06,99.30%,ORANGE,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2022-06,98.60%,ROUGE,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2022-06,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2022-06,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2022-06,100.00%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2022-06,100.00%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2022-06,99.74%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2022-06,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2022-06,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2022-06,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2022-06,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2022-06,99.97%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2022-06,99.83%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2022-07,99.25%,ORANGE,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2022-07,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2022-07,98.05%,ROUGE,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2022-07,99.40%,ORANGE,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2022-07,99.40%,ORANGE,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2022-07,99.40%,ORANGE,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2022-07,99.58%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2022-07,100.00%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2022-07,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2022-07,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2022-07,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2022-07,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2022-07,99.88%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2022-07,99.73%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2022-08,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2022-08,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2022-08,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2022-08,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2022-08,99.99%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2022-09,99.90%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2022-09,99.90%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2022-09,99.90%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2022-09,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2022-09,99.90%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2022-09,99.90%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2022-09,99.97%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2022-09,99.97%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2022-09,99.90%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2022-09,99.90%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2022-09,99.90%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2022-09,99.90%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2022-09,99.60%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2022-09,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2022-09,99.99%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2022-09,99.99%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2022-09,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2022-09,99.92%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2022-09,99.86%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2022-10,99.60%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2022-10,99.60%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2022-10,99.90%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2022-10,99.90%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2022-10,99.90%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2022-10,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2022-10,95.30%,ROUGE,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2022-10,95.30%,ROUGE,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2022-10,99.79%,VERT,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2022-10,99.79%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2022-10,100.00%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2022-10,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2022-10,99.96%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2022-10,99.96%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2022-10,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2022-10,99.96%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2022-10,99.98%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2022-11,99.60%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2022-11,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2022-11,99.60%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2022-11,100.00%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2022-11,99.60%,VERT,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2022-11,100.00%,VERT,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2022-11,99.60%,VERT,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2022-11,100.00%,VERT,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2022-11,99.90%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2022-11,100.00%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2022-11,100.00%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2022-11,100.00%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2022-11,100.00%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2022-11,99.70%,VERT,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2022-11,99.70%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2022-11,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2022-11,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2022-11,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2022-11,99.10%,ORANGE,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2022-11,99.10%,ORANGE,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2022-11,99.10%,ORANGE,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2022-11,99.80%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2022-11,99.80%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2022-11,99.80%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2022-11,99.80%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2022-11,99.50%,VERT,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2022-11,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2022-11,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2022-11,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2022-11,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2022-11,99.79%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2022-11,99.50%,VERT,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,TECHNIQUE,2022-12,99.30%,ORANGE,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,TECHNIQUE,2022-12,99.45%,ORANGE,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,TECHNIQUE,2022-12,99.13%,ORANGE,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,TECHNIQUE,2022-12,99.45%,ORANGE,99.50%,99.00%
+SNAV001,Taux de disponibilité du DAM BO Groupe,Ecom,2022-12,99.30%,ORANGE,99.50%,99.00%
+SNAV002,Taux de disponibilité du DAM FO Groupe,Ecom,2022-12,99.45%,ORANGE,99.50%,99.00%
+SNAV003,Taux de disponibilité du DAM BO CNP,Ecom,2022-12,99.13%,ORANGE,99.50%,99.00%
+SNAV004,Taux de disponibilité du DAM FO CNP,Ecom,2022-12,99.45%,ORANGE,99.50%,99.00%
+SNAV005,Taux de disponibilité Portail-Cognos-Principal,TECHNIQUE,2022-12,99.50%,VERT,99.50%,99.00%
+SNAV006,Taux de disponibilité Portail-Cognos-Galileo,TECHNIQUE,2022-12,99.50%,VERT,99.50%,99.00%
+SNAV007,Taux de disponibilité Portail-Cognos-Pushmail,TECHNIQUE,2022-12,99.50%,VERT,99.50%,99.00%
+SNAV008,Taux de disponibilité MS Dynamics Europe,TECHNIQUE,2022-12,99.96%,VERT,99.00%,99.00%
+SNAV010,Taux de disponibilité de Plume,TECHNIQUE,2022-12,98.21%,ROUGE,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,TECHNIQUE,2022-12,98.64%,ROUGE,99.50%,99.00%
+SNAV011,Taux de disponibilité WCS Savoye,LOGISTIQUE,2022-12,98.64%,ROUGE,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,SERVICE AUX CLIENTS,2022-12,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,TECHNIQUE,2022-12,100.00%,VERT,99.50%,99.00%
+SNAV012,Taux de disponibilité StreamServe,LOGISTIQUE,2022-12,100.00%,VERT,99.50%,99.00%
+SNAV013,Taux de disponibilité M3 CNP,TECHNIQUE,2022-12,84.35%,ROUGE,99.50%,99.00%
+SNAV014,Taux de disponibilité M3 Europe,TECHNIQUE,2022-12,84.44%,ROUGE,99.50%,99.00%
+SNAV015,Taux de disponibilité M3 USA,TECHNIQUE,2022-12,82.44%,ROUGE,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,TECHNIQUE,2022-12,99.84%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDE,2022-12,99.84%,VERT,99.50%,99.00%
+SNAV016,Taux de disponibilité Y2 Europe,HDF,2022-12,99.84%,VERT,99.50%,99.00%
+SNAV017,Taux de disponibilité Y2 Saint Barth,TECHNIQUE,2022-12,99.84%,VERT,99.50%,99.00%
+SNAV018,Taux de disponibilité Manhattan,TECHNIQUE,2022-12,98.45%,ROUGE,99.50%,99.00%
+RELIC001,Taux de disponibilité Magento,TECHNIQUE,2022-12,99.63%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDF,2022-12,100.00%,VERT,99.00%,99.00%
+ADYEN001,Taux de disponibilité Adyen,HDE,2022-12,100.00%,VERT,99.00%,99.00%
+SAC001,Taux de disponibilité des services d'impression Hermès Sellier,SERVICE AUX CLIENTS,2022-12,100.00%,VERT,99.50%,99.00%
+GRAFA002,Taux de disponibilité Tibco,TECHNIQUE,2022-12,99.92%,VERT,99.50%,99.00%
+GRAFA003,Taux de disponibilité DEX,TECHNIQUE,2022-12,99.60%,VERT,99.50%,99.00%
+M3MAN001A,Taux de remontées des BP préparés dans M3 sans erreurs - Bobigny,LOGISTIQUE,2023-05,99.61%,VERT,95%,89%
+M3MAN001B,Taux de remontées des BP préparés dans M3 sans erreurs - Deret,LOGISTIQUE,2023-05,98.91%,VERT,95%,89%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2022-07,92.50%,VERT,85%,79%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2022-08,93.40%,VERT,85%,79%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2022-09,92%,VERT,85%,79%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2022-10,93.10%,VERT,85%,79%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2022-11,90.40%,VERT,85%,79%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2022-12,90.50%,VERT,85%,79%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2023-01,90.80%,VERT,85%,79%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2023-02,90.80%,VERT,85%,79%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2023-03,93.50%,VERT,85%,79%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2023-04,94.80%,VERT,85%,79%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2023-05,94.80%,VERT,85%,79%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2023-06,91.70%,VERT,85%,79%
+GRAFA001,Fiabilité du signal Wifi en magasin,HDF,2023-07,91.50%,VERT,85%,79%
+SNAV010,Taux de disponibilité de Plume,HMS,2023-01,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2023-02,99.94%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2023-03,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2023-04,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2023-05,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2023-06,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2022-01,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2022-02,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2022-03,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2022-04,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2022-05,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2022-06,99.10%,ORANGE,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2022-07,98.05%,ROUGE,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2022-08,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2022-09,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2022-10,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2022-11,100.00%,VERT,99.50%,99.00%
+SNAV010,Taux de disponibilité de Plume,HMS,2022-12,98.21%,ROUGE,99.50%,99.00%
+M3006,Taux de commandes de réexpédition après-ventes créées dans M3 sans anomalie,SERVICE AUX CLIENTS,2023-04,99.84%,VERT,99.5%,94%
+M3006,Taux de commandes de réexpédition après-ventes créées dans M3 sans anomalie,SERVICE AUX CLIENTS,2023-05,99.83%,VERT,99.5%,94%
+M3006,Taux de commandes de réexpédition après-ventes créées dans M3 sans anomalie,SERVICE AUX CLIENTS,2023-06,99.89%,VERT,99.5%,94%
+M3006,Taux de commandes de réexpédition après-ventes créées dans M3 sans anomalie,SERVICE AUX CLIENTS,2023-07,99.57%,VERT,99.5%,94%
+M3006,Taux de commandes de réexpédition après-ventes créées dans M3 sans anomalie,SERVICE AUX CLIENTS,2023-08,99.74%,VERT,99.5%,94%
+PULOG001,Taux de performance MyHpad,HDF,2022-12,74.58%,ROUGE,90%,84%
+PULOG001,Taux de performance MyHpad,HDF,2023-01,98.60%,VERT,90%,84%
+PULOG001,Taux de performance MyHpad,HDF,2023-02,99.85%,VERT,90%,84%
+PULOG001,Taux de performance MyHpad,HDF,2023-03,99.98%,VERT,90%,84%
+PULOG001,Taux de performance MyHpad,HDF,2023-04,99.96%,VERT,90%,84%
+PULOG001,Taux de performance MyHpad,HDF,2023-05,100%,VERT,90%,84%
+PULOG001,Taux de performance MyHpad,HDF,2023-06,99.17%,VERT,90%,84%
+PULOG001,Taux de performance MyHpad,HDF,2023-07,No Data,,90%,84%
+PULOG001,Taux de performance MyHpad,HDF,2023-08,No Data,,90%,84%
+PULOG001,Taux de performance MyHpad,HDE,2022-12,74.47%,ROUGE,90%,84%
+PULOG001,Taux de performance MyHpad,HDE,2023-01,98.40%,VERT,90%,84%
+PULOG001,Taux de performance MyHpad,HDE,2023-02,100%,VERT,90%,84%
+PULOG001,Taux de performance MyHpad,HDE,2023-03,99.98%,VERT,90%,84%
+PULOG001,Taux de performance MyHpad,HDE,2023-04,99.88%,VERT,90%,84%
+PULOG001,Taux de performance MyHpad,HDE,2023-05,100%,VERT,90%,84%
+PULOG001,Taux de performance MyHpad,HDE,2023-06,99.30%,VERT,90%,84%
+PULOG001,Taux de performance MyHpad,HDE,2023-07,No Data,,90%,84%
+PULOG001,Taux de performance MyHpad,HDE,2023-08,No Data,,90%,84%
+GRAFA004,Taux de requêtes du réseau respectant le délai seuil (100ms) ,HDF,2023-04,88.70%,ORANGE,90%,84%
+GRAFA004,Taux de requêtes du réseau respectant le délai seuil (100ms) ,HDF,2023-05,90.10%,VERT,90%,84%
+GRAFA004,Taux de requêtes du réseau respectant le délai seuil (100ms) ,HDF,2023-06,89.10%,ORANGE,90%,84%
+GRAFA004,Taux de requêtes du réseau respectant le délai seuil (100ms) ,HDF,2023-07,88.50%,ORANGE,90%,84%
+GRAFA004,Taux de requêtes du réseau respectant le délai seuil (100ms) ,HDF,2023-08,89.40%,ORANGE,90%,84%
+GRAFA004,Taux de requêtes du réseau respectant le délai seuil (100ms) ,HDE,2023-04,98.10%,VERT,90%,84%
+GRAFA004,Taux de requêtes du réseau respectant le délai seuil (100ms) ,HDE,2023-05,98.90%,VERT,90%,84%
+GRAFA004,Taux de requêtes du réseau respectant le délai seuil (100ms) ,HDE,2023-06,98.90%,VERT,90%,84%
+GRAFA004,Taux de requêtes du réseau respectant le délai seuil (100ms) ,HDE,2023-07,98.30%,VERT,90%,84%
+GRAFA004,Taux de requêtes du réseau respectant le délai seuil (100ms) ,HDE,2023-08,99.20%,VERT,90%,84%
+EASY013,Quartis : Backlog des problèmes,HMS,2023-01,17,ROUGE,10,10
+EASY013,Quartis : Backlog des problèmes,HMS,2023-02,12,ROUGE,10,10
+EASY013,Quartis : Backlog des problèmes,HMS,2023-03,17,ROUGE,10,10
+EASY013,Quartis : Backlog des problèmes,HMS,2023-04,17,ROUGE,10,10
+EASY013,Quartis : Backlog des problèmes,HMS,2023-05,17,ROUGE,10,10
+EASY013,Quartis : Backlog des problèmes,HMS,2023-06,12,ROUGE,10,10
+EASY013,Quartis : Backlog des problèmes,HMS,2023-07,9,VERT,10,10
+EASY013,Quartis : Backlog des problèmes,HMS,2023-08,9,VERT,10,10
+EASY014,Quartis : Ancienneté moyenne des problèmes (mois),HMS,2023-01,26,ROUGE,15,15
+EASY014,Quartis : Ancienneté moyenne des problèmes (mois),HMS,2023-02,20,ROUGE,15,15
+EASY014,Quartis : Ancienneté moyenne des problèmes (mois),HMS,2023-03,15,VERT,15,15
+EASY014,Quartis : Ancienneté moyenne des problèmes (mois),HMS,2023-04,16,ROUGE,15,15
+EASY014,Quartis : Ancienneté moyenne des problèmes (mois),HMS,2023-05,17,ROUGE,15,15
+EASY014,Quartis : Ancienneté moyenne des problèmes (mois),HMS,2023-06,17,ROUGE,15,15
+EASY014,Quartis : Ancienneté moyenne des problèmes (mois),HMS,2023-07,11,VERT,15,15
+EASY014,Quartis : Ancienneté moyenne des problèmes (mois),HMS,2023-08,12,VERT,15,15
+CROWN002,Taux de descente des commandes Crown vers M3 ≤ J+1,HMS,2023-01,78.10%,ROUGE,80%,80%
+CROWN002,Taux de descente des commandes Crown vers M3 ≤ J+1,HMS,2023-02,81.10%,VERT,80%,80%
+CROWN002,Taux de descente des commandes Crown vers M3 ≤ J+1,HMS,2023-03,83.70%,VERT,80%,80%
+CROWN002,Taux de descente des commandes Crown vers M3 ≤ J+1,HMS,2023-04,84.50%,VERT,80%,80%
+CROWN002,Taux de descente des commandes Crown vers M3 ≤ J+1,HMS,2023-05,86.80%,VERT,80%,80%
+CROWN002,Taux de descente des commandes Crown vers M3 ≤ J+1,HMS,2023-06,88.90%,VERT,80%,80%
+CROWN002,Taux de descente des commandes Crown vers M3 ≤ J+1,HMS,2023-07,79%,ROUGE,80%,80%
+CROWN002,Taux de descente des commandes Crown vers M3 ≤ J+1,HMS,2023-08,86.00%,VERT,80%,80%
+CROWN001,Taux de descente des commandes Crown vers M3 <1sem,HMS,2023-01,100.00%,VERT,99%,99%
+CROWN001,Taux de descente des commandes Crown vers M3 <1sem,HMS,2023-02,100.00%,VERT,99%,99%
+CROWN001,Taux de descente des commandes Crown vers M3 <1sem,HMS,2023-03,99.50%,VERT,99%,99%
+CROWN001,Taux de descente des commandes Crown vers M3 <1sem,HMS,2023-04,99.70%,VERT,99%,99%
+CROWN001,Taux de descente des commandes Crown vers M3 <1sem,HMS,2023-05,99.80%,VERT,99%,99%
+CROWN001,Taux de descente des commandes Crown vers M3 <1sem,HMS,2023-06,100.00%,VERT,99%,99%
+CROWN001,Taux de descente des commandes Crown vers M3 <1sem,HMS,2023-07,100.00%,VERT,99%,99%
+CROWN001,Taux de descente des commandes Crown vers M3 <1sem,HMS,2023-08,100.00%,VERT,99%,99%
+TABREA001,Tableau Reader : Taux de de disponibilité des 3 rapports critiques à 9h30,HMS,2023-01,95.00%,VERT,95%,95%
+TABREA001,Tableau Reader : Taux de de disponibilité des 3 rapports critiques à 9h30,HMS,2023-02,95.00%,VERT,95%,95%
+TABREA001,Tableau Reader : Taux de de disponibilité des 3 rapports critiques à 9h30,HMS,2023-03,96.00%,VERT,95%,95%
+TABREA001,Tableau Reader : Taux de de disponibilité des 3 rapports critiques à 9h30,HMS,2023-04,95.00%,VERT,95%,95%
+TABREA001,Tableau Reader : Taux de de disponibilité des 3 rapports critiques à 9h30,HMS,2023-05,96.00%,VERT,95%,95%
+TABREA001,Tableau Reader : Taux de de disponibilité des 3 rapports critiques à 9h30,HMS,2023-06,97.00%,VERT,95%,95%
+TABREA001,Tableau Reader : Taux de de disponibilité des 3 rapports critiques à 9h30,HMS,2023-07,90.00%,ROUGE,95%,95%
+TABREA001,Tableau Reader : Taux de de disponibilité des 3 rapports critiques à 9h30,HMS,2023-08,100.00%,VERT,95%,95%
+SNAV019,Taux de disponibilité de l’application SWB,HMS,2023-01,97.78%,VERT,90%,90%
+SNAV019,Taux de disponibilité de l’application SWB,HMS,2023-02,97.80%,VERT,90%,90%
+SNAV019,Taux de disponibilité de l’application SWB,HMS,2023-03,89.50%,ROUGE,90%,90%
+SNAV019,Taux de disponibilité de l’application SWB,HMS,2023-04,96.12%,VERT,90%,90%
+SNAV019,Taux de disponibilité de l’application SWB,HMS,2023-05,97.15%,VERT,90%,90%
+SNAV019,Taux de disponibilité de l’application SWB,HMS,2023-06,82.06%,ROUGE,90%,90%
+SNAV019,Taux de disponibilité de l’application SWB,HMS,2023-07,95.07%,VERT,90%,90%
+SAP001JE,Taux d'intégration des ventes en moins d'un jour (C1/C6) EUROPE,FINANCE,2023-10,86.7%,ROUGE,95%,90%
+SAP001JM,Taux d'intégration des ventes en moins d'un jour (C1/C6) MONDE,FINANCE,2023-10,85.2%,ROUGE,95%,90%
+SAP002J,Taux d'intégration des notes de frais dans SAP en moins d'un jour (K1),FINANCE,2023-10,95.2%,VERT,95%,90%
+SAP003J,Taux d'intégration des factures Coupa dans SAP en moins d'un jour (KM),FINANCE,2023-10,97.6%,VERT,95%,90%
+SAP004JH,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM) - hors sociétés identifiées,FINANCE,2023-10,96.5%,VERT,95%,90%
+SAP004JM,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM) - MONDE,FINANCE,2023-10,75.6%,ROUGE,95%,90%
+SAP005J,Taux d'intégration des factures gros dans SAP en moins d'un jour (MP),FINANCE,2023-10,91.8%,ORANGE,95%,90%
+SAP001ME,Taux d'intégration des ventes dans SAP avant (ou) le premier jour du mois (C1/C6) M+1  EUROPE,FINANCE,2023-10,99.9%,VERT,99%,95%
+SAP001MM,Taux d'intégration des ventes dans SAP avant (ou) le premier jour du mois M+1 MONDE,FINANCE,2023-10,99.1%,VERT,99%,95%
+SAP002M,Taux d'intégration des notes de frais dans SAP avant (ou) le premier jour du mois M+1 (K1),FINANCE,2023-10,99.5%,VERT,99%,95%
+SAP003M,Taux d'intégration des factures Coupa dans SAP avant (ou) le premier jour du mois M+1 (KM),FINANCE,2023-10,99.3%,VERT,99%,95%
+SAP004MH,Taux d'intégration des contrôles factures dans SAP avant (ou) le premier jour du mois M+1 (MM) - hors sociétés identifiées,FINANCE,2023-10,99.8%,VERT,99%,95%
+SAP004MM,Taux d'intégration des contrôles factures dans SAP avant (ou) le premier jour du mois M+1 (MM) - MONDE,FINANCE,2023-10,98.8%,ORANGE,99%,95%
+SAP005M,Taux d'intégration des factures gros dans SAP avant (ou) le premier jour du mois M+1 (MP),FINANCE,2023-10,99.4%,VERT,99%,95%
+SAP001JE,Taux d'intégration des ventes en moins d'un jour (C1/C6) EUROPE,FINANCE,2023-11,68.3%,ROUGE,95%,90%
+SAP001JM,Taux d'intégration des ventes en moins d'un jour (C1/C6) MONDE,FINANCE,2023-11,70.2%,ROUGE,95%,90%
+SAP002J,Taux d'intégration des notes de frais dans SAP en moins d'un jour (K1),FINANCE,2023-11,95.8%,VERT,95%,90%
+SAP003J,Taux d'intégration des factures Coupa dans SAP en moins d'un jour (KM),FINANCE,2023-11,97.5%,VERT,95%,90%
+SAP004JH,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM) - hors sociétés identifiées,FINANCE,2023-11,96.6%,VERT,95%,90%
+SAP004JM,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM) - MONDE,FINANCE,2023-11,75.2%,ROUGE,95%,90%
+SAP005J,Taux d'intégration des factures gros dans SAP en moins d'un jour (MP),FINANCE,2023-11,91.7%,ORANGE,95%,90%
+SAP001ME,Taux d'intégration des ventes dans SAP avant (ou) le premier jour du mois (C1/C6) M+1  EUROPE,FINANCE,2023-11,93.1%,ROUGE,99%,95%
+SAP001MM,Taux d'intégration des ventes dans SAP avant (ou) le premier jour du mois M+1 MONDE,FINANCE,2023-11,94.0%,ROUGE,99%,95%
+SAP002M,Taux d'intégration des notes de frais dans SAP avant (ou) le premier jour du mois M+1 (K1),FINANCE,2023-11,99.9%,VERT,99%,95%
+SAP003M,Taux d'intégration des factures Coupa dans SAP avant (ou) le premier jour du mois M+1 (KM),FINANCE,2023-11,98.7%,ORANGE,99%,95%
+SAP004MH,Taux d'intégration des contrôles factures dans SAP avant (ou) le premier jour du mois M+1 (MM) - hors sociétés identifiées,FINANCE,2023-11,99.7%,VERT,99%,95%
+SAP004MM,Taux d'intégration des contrôles factures dans SAP avant (ou) le premier jour du mois M+1 (MM) - MONDE,FINANCE,2023-11,97.0%,ORANGE,99%,95%
+SAP005M,Taux d'intégration des factures gros dans SAP avant (ou) le premier jour du mois M+1 (MP),FINANCE,2023-11,99.7%,VERT,99%,95%
+SAP001JE,Taux d'intégration des ventes en moins d'un jour (C1/C6) EUROPE,FINANCE,2023-12,76.1%,ROUGE,95%,90%
+SAP001JM,Taux d'intégration des ventes en moins d'un jour (C1/C6) MONDE,FINANCE,2023-12,78.2%,ROUGE,95%,90%
+SAP002J,Taux d'intégration des notes de frais dans SAP en moins d'un jour (K1),FINANCE,2023-12,91.6%,ORANGE,95%,90%
+SAP003J,Taux d'intégration des factures Coupa dans SAP en moins d'un jour (KM),FINANCE,2023-12,98.2%,VERT,95%,90%
+SAP004JH,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM) - hors sociétés identifiées,FINANCE,2023-12,97.2%,VERT,95%,90%
+SAP004JM,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM) - MONDE,FINANCE,2023-12,73.2%,ROUGE,95%,90%
+SAP005J,Taux d'intégration des factures gros dans SAP en moins d'un jour (MP),FINANCE,2023-12,92.7%,ORANGE,95%,90%
+SAP001ME,Taux d'intégration des ventes dans SAP avant (ou) le premier jour du mois (C1/C6) M+1  EUROPE,FINANCE,2023-12,99.7%,VERT,99%,95%
+SAP001MM,Taux d'intégration des ventes dans SAP avant (ou) le premier jour du mois M+1 MONDE,FINANCE,2023-12,99.1%,VERT,99%,95%
+SAP002M,Taux d'intégration des notes de frais dans SAP avant (ou) le premier jour du mois M+1 (K1),FINANCE,2023-12,100.0%,VERT,99%,95%
+SAP003M,Taux d'intégration des factures Coupa dans SAP avant (ou) le premier jour du mois M+1 (KM),FINANCE,2023-12,99.4%,VERT,99%,95%
+SAP004MH,Taux d'intégration des contrôles factures dans SAP avant (ou) le premier jour du mois M+1 (MM) - hors sociétés identifiées,FINANCE,2023-12,99.7%,VERT,99%,95%
+SAP004MM,Taux d'intégration des contrôles factures dans SAP avant (ou) le premier jour du mois M+1 (MM) - MONDE,FINANCE,2023-12,84.6%,ROUGE,99%,95%
+SAP005M,Taux d'intégration des factures gros dans SAP avant (ou) le premier jour du mois M+1 (MP),FINANCE,2023-12,100.0%,VERT,99%,95%
+SAP001JE,Taux d'intégration des ventes en moins d'un jour (C1/C6) EUROPE,FINANCE,2024-01,88.4%,ROUGE,95%,90%
+SAP001JM,Taux d'intégration des ventes en moins d'un jour (C1/C6) MONDE,FINANCE,2024-01,87.6%,ROUGE,95%,90%
+SAP002J,Taux d'intégration des notes de frais dans SAP en moins d'un jour (K1),FINANCE,2024-01,86.1%,ROUGE,95%,90%
+SAP003J,Taux d'intégration des factures Coupa dans SAP en moins d'un jour (KM),FINANCE,2024-01,97.8%,VERT,95%,90%
+SAP004JH,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM) - hors sociétés identifiées,FINANCE,2024-01,97.9%,VERT,95%,90%
+SAP004JM,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM) - MONDE,FINANCE,2024-01,77.3%,ROUGE,95%,90%
+SAP005J,Taux d'intégration des factures gros dans SAP en moins d'un jour (MP),FINANCE,2024-01,92.7%,ORANGE,95%,90%
+SAP001ME,Taux d'intégration des ventes dans SAP avant (ou) le premier jour du mois (C1/C6) M+1  EUROPE,FINANCE,2024-01,99.3%,VERT,99%,95%
+SAP001MM,Taux d'intégration des ventes dans SAP avant (ou) le premier jour du mois M+1 MONDE,FINANCE,2024-01,98.9%,ORANGE,99%,95%
+SAP002M,Taux d'intégration des notes de frais dans SAP avant (ou) le premier jour du mois M+1 (K1),FINANCE,2024-01,98.3%,ORANGE,99%,95%
+SAP003M,Taux d'intégration des factures Coupa dans SAP avant (ou) le premier jour du mois M+1 (KM),FINANCE,2024-01,99.4%,VERT,99%,95%
+SAP004MH,Taux d'intégration des contrôles factures dans SAP avant (ou) le premier jour du mois M+1 (MM) - hors sociétés identifiées,FINANCE,2024-01,100.0%,VERT,99%,95%
+SAP004MM,Taux d'intégration des contrôles factures dans SAP avant (ou) le premier jour du mois M+1 (MM) - MONDE,FINANCE,2024-01,97.9%,ORANGE,99%,95%
+SAP005M,Taux d'intégration des factures gros dans SAP avant (ou) le premier jour du mois M+1 (MP),FINANCE,2024-01,99.9%,VERT,99%,95%
+SAP001JE,Taux d'intégration des ventes en moins d'un jour (C1/C6)- J+1 Europe,FINANCE,2024-02,74.9%,ROUGE,95%,90%
+SAP001JM,Taux d'intégration des ventes en moins d'un jour (C1/C6)- J+1 Monde,FINANCE,2024-02,78.2%,ROUGE,95%,90%
+SAP002J,Taux d'intégration des notes de frais dans SAP en moins d'un jour (K1)- J+1,FINANCE,2024-02,86.4%,ROUGE,95%,90%
+SAP003J,Taux d'intégration des factures Coupa dans SAP en moins d'un jour (KM)- J+1,FINANCE,2024-02,97.9%,VERT,95%,90%
+SAP004JH,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM)- J+1 - hors sociétés identifiées,FINANCE,2024-02,96.2%,VERT,95%,90%
+SAP004JM,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM)- J+1 - Monde,FINANCE,2024-02,80.4%,ROUGE,95%,90%
+SAP005J,Taux d'intégration des factures gros dans SAP en moins d'un jour (MP)- J+1,FINANCE,2024-02,92.3%,ORANGE,95%,90%
+SAP001ME,Taux d'intégration des ventes en moins d'un jour (C1/C6)- M+1 Europe,FINANCE,2024-02,100.0%,VERT,99%,95%
+SAP001MM,Taux d'intégration des ventes en moins d'un jour (C1/C6)- M+1 Monde,FINANCE,2024-02,99.3%,VERT,99%,95%
+SAP002M,Taux d'intégration des notes de frais dans SAP en moins d'un jour (K1)- M+1,FINANCE,2024-02,99.2%,VERT,99%,95%
+SAP003M,Taux d'intégration des factures Coupa dans SAP en moins d'un jour (KM)- M+1,FINANCE,2024-02,99.4%,VERT,99%,95%
+SAP004MH,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM)- M+1 - hors sociétés identifiées,FINANCE,2024-02,99.5%,VERT,99%,95%
+SAP004MM,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM)- M+1 - Monde,FINANCE,2024-02,99.3%,VERT,99%,95%
+SAP005M,Taux d'intégration des factures gros dans SAP en moins d'un jour (MP)- M+1,FINANCE,2024-02,97.7%,ORANGE,99%,95%
+SAP001JE,Taux d'intégration des ventes en moins d'un jour (C1/C6)- J+1 Europe,FINANCE,2024-03,86.1%,ROUGE,95%,90%
+SAP001JM,Taux d'intégration des ventes en moins d'un jour (C1/C6)- J+1 Monde,FINANCE,2024-03,86.9%,ROUGE,95%,90%
+SAP002J,Taux d'intégration des notes de frais dans SAP en moins d'un jour (K1)- J+1,FINANCE,2024-03,92.6%,ORANGE,95%,90%
+SAP003J,Taux d'intégration des factures Coupa dans SAP en moins d'un jour (KM)- J+1,FINANCE,2024-03,97.9%,VERT,95%,90%
+SAP004JH,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM)- J+1 - hors sociétés identifiées,FINANCE,2024-03,96.5%,VERT,95%,90%
+SAP004JM,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM)- J+1 - Monde,FINANCE,2024-03,75.6%,ROUGE,95%,90%
+SAP005J,Taux d'intégration des factures gros dans SAP en moins d'un jour (MP)- J+1,FINANCE,2024-03,91.9%,ORANGE,95%,90%
+SAP001ME,Taux d'intégration des ventes en moins d'un jour (C1/C6)- M+1 Europe,FINANCE,2024-03,99.9%,VERT,99%,95%
+SAP001MM,Taux d'intégration des ventes en moins d'un jour (C1/C6)- M+1 Monde,FINANCE,2024-03,99.4%,VERT,99%,95%
+SAP002M,Taux d'intégration des notes de frais dans SAP en moins d'un jour (K1)- M+1,FINANCE,2024-03,100.0%,VERT,99%,95%
+SAP003M,Taux d'intégration des factures Coupa dans SAP en moins d'un jour (KM)- M+1,FINANCE,2024-03,99.4%,VERT,99%,95%
+SAP004MH,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM)- M+1 - hors sociétés identifiées,FINANCE,2024-03,98.6%,ORANGE,99%,95%
+SAP004MM,Taux d'intégration des contrôles factures dans SAP en moins d'un jour (MM)- M+1 - Monde,FINANCE,2024-03,96.5%,ORANGE,99%,95%
+SAP005M,Taux d'intégration des factures gros dans SAP en moins d'un jour (MP)- M+1,FINANCE,2024-03,100.0%,VERT,99%,95%
